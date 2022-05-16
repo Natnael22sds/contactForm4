@@ -175,7 +175,7 @@ input {
 
 .open-popup{
     visibility: visible;
-    top: 80%;
+    top: 65%;
     transform: translate(-50%, -50%) scale(1);
 }
 
